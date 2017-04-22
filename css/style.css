@@ -1,0 +1,11 @@
+#myDay {
+  position: relative;
+  height: 1440px;
+  width: 600px;
+  background: lightgrey;
+  margin: auto;
+}
+.labels {
+  font-size: 15px;
+  text-align: center;
+}
